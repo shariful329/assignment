@@ -1,0 +1,82 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+section{
+    height: 750px;
+    padding-bottom: 50px;
+}
+#color{
+    color: tomato;
+}
+.colorp{
+    color: gray;
+}
+.two{
+        float: left;
+        width: 40%;
+        margin-left: 2%;
+        padding-left: 5%;
+    }
+    .two img{
+        width: 100%;
+}
+h1{
+   font-size: 45px;
+}
+.nice-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon,tomato);
+    padding: 8px 7px;
+    font-weight: 650px;
+    color: white;
+    border-radius: 5px;
+}
+#line{
+    text-align: center;
+}
+#colorr{
+    color: lightsalmon;
+}
+.box{
+ width: 29%;
+margin-left: 3%;
+box-shadow:10px 8px 45px gray;
+border-radius: 15px;
+background-color: white;
+height: 60%;
+float: left;
+padding: 10px 10px 20px 10px;
+}
+#darkgray{
+    background-color: rgb(226, 225, 225);
+}
+.box img{
+    width: 100%;
+}
+.size{
+    color: gray;
+}
+.colo{
+    color: rgb(13, 13, 93);
+}
+
+.cool{
+    width: 700PX;
+    height: 200PX;
+    margin-left: 600px;
+    background-image: url(photo/Group_33094_1.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#line1{
+    padding: 60px 350px 50px 50px ;
+    color: white;
+}
+#line2{
+    position: relative;
+    left: 560px;
+    bottom: 125px;
+}
+.ten{
+    text-align: center;
+}
